@@ -58,13 +58,13 @@ This project helped me improve my digital skills, communication, and awareness a
 ## ⚙️ How to Run This Project
 
 1. Clone the repository:
-   
+   git clone https://github.com/tavishi25bai10684/Digital-Literacy-Project-.git
 
-2. Open the project folder:
-   cd your-repo-name
+3. Open the project folder:
+    cd digital literacy project report.docx
 
-3. View the project files:
+4. View the project files:
    - Open task folders
    - View screenshots and documents
 
-4. No additional setup or dependencies required.
+5. No additional setup or dependencies required.
