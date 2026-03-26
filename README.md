@@ -53,3 +53,18 @@ https://docs.google.com/forms/d/e/1FAIpQLSc8Ab4tVACi9So_vn9s-RPbdanfbuU65m-twmGX
 
 ## 💡 Learning Outcome
 This project helped me improve my digital skills, communication, and awareness about online safety.
+
+
+## ⚙️ How to Run This Project
+
+1. Clone the repository:
+   
+
+2. Open the project folder:
+   cd your-repo-name
+
+3. View the project files:
+   - Open task folders
+   - View screenshots and documents
+
+4. No additional setup or dependencies required.
